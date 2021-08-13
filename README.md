@@ -10,5 +10,6 @@
     2. []()
 6. **Project Need to implement**
    * [Stock Predictions Using Machine Learning Algorithms](https://morioh.com/p/e0ddf3b0e50f?f=5c21fb01c16e2556b555ab32&fbclid=IwAR2G-N-rE7sDi-KgnVdC3aGTPsLqrjepQJJgiHDpeiPYV2h2dvpt_xgL__w)
+   * [Multi-Layer Perception Time Series](https://bobrupakroy.medium.com/multi-layer-perception-time-series-8a1bddbb033a)
 
 
