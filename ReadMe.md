@@ -1,12 +1,14 @@
-## **Welcome to Collaborative Time-Series Analysis in Python Course👋🛒**
+## **Welcome to Collaborative Time Series Analysis with Machine Learning Course👋🛒**
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <p align="center">
 <img src="https://github.com/hussain0048/Natural-language-processing/blob/main/CoursesTeach.jpg"></a>
 </p>
 
-Welcome to the Natural Language Processing (NLP) Course, an open-source initiative to learn, implement, and master NLP concepts using Python. Whether you're a student, researcher, or AI enthusiast, this repository provides a structured, hands-on approach to mastering NLP from fundamentals to advanced topics.
+This repository provides a comprehensive guide to time series analysis and forecasting using machine learning techniques. It covers various approaches, including statistical methods, deep learning, and hybrid models to analyze and predict time-dependent data.
 
  Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
+
+ [ Readme](https://chatgpt.com/c/67eaaceb-8a7c-800e-9431-e32906c50be5)
 
  ## **🎯 Why Join This Course?**
  
