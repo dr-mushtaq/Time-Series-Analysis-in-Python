@@ -12,13 +12,15 @@ This repository provides a comprehensive guide to time series analysis and forec
 
  ## **🎯 Why Join This Course?**
  
-1.  📖 Comprehensive Learning: Covers all major NLP topics, from basics to cutting-edge deep learning techniques.
+1.   ## **🎯 Why Join This Course?**
+ 
+1. 📖 Comprehensive Learning: Covers all major time series topics, from basics to advanced machine learning techniques.
 
 2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
 
-3. 🤝 Collaborative Learning: ork with students and researchers worldwide through GitHub discussions, issue tracking, and dedicated forums..
+3. 🤝 Collaborative Learning: Work with students and researchers worldwide through GitHub discussions, issue tracking, and dedicated forums.
 
-4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like transformers, BERT, GPT, and more.
+4. 🔥 AI-Powered Course: Stay ahead with industry-relevant techniques like LSTMs, GRUs, transformers, and hybrid models.
 
 ## **💡 How to Participate?**
 
