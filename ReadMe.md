@@ -12,8 +12,6 @@ This repository provides a comprehensive guide to time series analysis and forec
 
  ## **🎯 Why Join This Course?**
  
-1.   ## **🎯 Why Join This Course?**
- 
 1. 📖 Comprehensive Learning: Covers all major time series topics, from basics to advanced machine learning techniques.
 
 2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
