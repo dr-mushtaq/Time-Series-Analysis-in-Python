@@ -230,7 +230,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 </details>
 
 <details> 
-<summary> <h2>📕 Natural-Language Processing Resources </h2> </summary>
+<summary> <h2>📕 Time Series Resources </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
@@ -248,10 +248,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
 
-## 👁️ Chapter4: - **Free Books**
+## 👁️ Chapter4: - **Free Books and Tutorial**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**🌐1- 5 Python Libraries for Advanced Time Series Forecasting**](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/)|It is Videos and github|---|
 
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
@@ -312,5 +312,6 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
