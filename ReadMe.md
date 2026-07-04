@@ -1,8 +1,4 @@
 ## **Welcome to Collaborative Time Series Analysis with Machine Learning Course👋🛒**
-<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
-<p align="center">
-<img src="https://github.com/hussain0048/Natural-language-processing/blob/main/CoursesTeach.jpg"></a>
-</p>
 
 This repository provides a comprehensive guide to time series analysis and forecasting using machine learning techniques. It covers various approaches, including statistical methods, deep learning, and hybrid models to analyze and predict time-dependent data.
 
