@@ -60,8 +60,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ### 🔹Week 0-**Chapter 1: 1- Time Series and Machine Learning Primer**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
-|[**1-Timeseries kinds and applications**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)[-Substack Link](https://substack.com/home/post/p-155741084?source=queue&autoPlay=false)|[1](https://drive.google.com/file/d/1CiupaMZAKL3R5hfZq2SrJvlw-H6QvCpp/view?usp=sharing)|---|
-| [**✅2- Natural Language Processing Tasks and Applications⭐️**](https://mushtaqmsit.substack.com/p/natural-language-processing-for-beginners) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
+|[**1-Timeseries kinds and applications**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)|[1](https://drive.google.com/file/d/1CiupaMZAKL3R5hfZq2SrJvlw-H6QvCpp/view?usp=sharing)[-2](https://youtu.be/4kj4FC0HpkE?si=2GrkX8LPo12kL_L2)|---|
+| [**Machine learning and time series data**](https://mushtaqmsit.substack.com/p/natural-language-processing-for-beginners) | [1](https://drive.google.com/file/d/11BSaEUZKXsGUt2GdaXIXmuei-ZySiJe9/view?usp=sharing)[-2](https://youtu.be/M7FFYWSYqY0?si=9sQuMGDrBD9pp6gL)| Content 3 |
 | [**✅3- Best Free Resources to Learn NLP-Tutorial⭐️**](https://mushtaqmsit.substack.com/p/top-free-nlp-learning-resources-your) | Content 5 | Content 6 |
  
 ### 🔹Week 1-**Chapter 2:Sentiment Analysis (logistic Regression)**
