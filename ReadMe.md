@@ -67,7 +67,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
 
-|[**✅1- Improving features for classification Part 1**](https://open.substack.com/pub/mushtaqmsit/p/sentiment-analysis-with-logistic?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) |[1](https://drive.google.com/file/d/1UUZwYM0VfU3_6sF7YGDcpEfbnK03OSyU/view?usp=sharing)[-2](https://youtu.be/fOE0v8G6qy0?si=HdjTGeFgT4ObN5Wr)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb) |
+|[**✅1- Improving features for classification Part 1**](https://open.substack.com/pub/mushtaqmsit/p/sentiment-analysis-with-logistic?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1](https://drive.google.com/file/d/1UUZwYM0VfU3_6sF7YGDcpEfbnK03OSyU/view?usp=sharing)[-2](https://youtu.be/fOE0v8G6qy0?si=HdjTGeFgT4ObN5Wr)|--- |
    
   ### Week 2-**📚Chapter3:Sentiment Analysis using Naive Bayes**
   | Topic Name/Tutorial | Video | Code |
