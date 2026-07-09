@@ -66,7 +66,6 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ### 🔹Week 1-**Chapter 2:Predicting time Series data**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
-
 |[**✅1- Improving features for classification Part 1**](https://open.substack.com/pub/mushtaqmsit/p/sentiment-analysis-with-logistic?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1](https://drive.google.com/file/d/1UUZwYM0VfU3_6sF7YGDcpEfbnK03OSyU/view?usp=sharing)[-2](https://youtu.be/fOE0v8G6qy0?si=HdjTGeFgT4ObN5Wr)|--- |
    
   ### Week 2-**📚Chapter3:Sentiment Analysis using Naive Bayes**
