@@ -57,6 +57,9 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 <details> 
 <summary> <h2> 📕Course 01 -Machine Learning for Time Series </h2> </summary>
 
+#### COURSE
+- **[Sequences and Time Series Prediction Course](https://github.com/laurash96/sequences-time-series-prediction-course/tree/main)** - FREE
+
 ### 🔹Week 0-**Chapter 1: 1- Time Series and Machine Learning Primer**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
